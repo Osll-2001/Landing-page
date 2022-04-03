@@ -308,13 +308,14 @@ footer h2{
 .boton_atras{
     background-color: #212121;
     color: #fafafa;
-    width: 5%;
+    width: 8%;
     height: 30px;
     margin-bottom: 10px;
     border-radius: 4px;
     margin-left: 5%;
     font-size: 20px;
     font-family: impact;
+    cursor: pointer;
 }
 
 .boton_atras:hover{
